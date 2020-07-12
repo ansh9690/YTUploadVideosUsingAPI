@@ -1,0 +1,10 @@
+Django==2.1
+google-api-python-client
+google-auth-oauthlib
+google-auth
+google-auth-httplib2
+oauth2client
+jsonpickle
+-e git://github.com/Schweigi/oauth2client.git@ac121e803b0f8f664faee0c12260541d1defb817#egg=oauth2client
+Pillow
+requests
